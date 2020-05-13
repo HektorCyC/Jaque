@@ -14,7 +14,7 @@ Para correr las pruebas unitarias ejecuta los siguientes comandos.
 
 ```
 $ npm i
-$ npm run tests
+$ npm run test
 ```
 
 

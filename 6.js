@@ -26,3 +26,5 @@ let schedules = [
   ["14:30:00", "16:00:00"],
 ];
 console.log(availableRooms(schedules));
+
+module.exports = availableRooms;

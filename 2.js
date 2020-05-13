@@ -12,3 +12,6 @@ function nPlusM(n, m) {
 let n = 3;
 let m = 6;
 console.log(nPlusM(n, m));
+
+module.exports = nPlusM;
+

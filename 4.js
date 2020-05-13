@@ -14,3 +14,5 @@ function removerDuplicados(array) {
 }
 const arr = [1, 1, 1, 3, 2, 5, 6, 4, 4, 7, 9, 6, 6, 6, 6, 6, 6,10,11,11,11,10];
 console.log(removerDuplicados(arr));
+
+module.exports = removerDuplicados;

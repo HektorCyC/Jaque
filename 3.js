@@ -8,3 +8,5 @@ function kNesimo(nums, k) {
   let array = [7, 2, 5, 9, 8, 3];
   let k = 2;
   console.log(kNesimo(array, k));  
+
+  module.exports = kNesimo;
