@@ -1,0 +1,22 @@
+{
+  "name": "jaque-test",
+  "version": "1.0.0",
+  "description": "Ejercicios Javascript",
+  "main": "2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HektorCyC/Jaque.git"
+  },
+  "author": "Hector Camarillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HektorCyC/Jaque/issues"
+  },
+  "homepage": "https://github.com/HektorCyC/Jaque#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
